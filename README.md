@@ -1,6 +1,6 @@
 # flutter_first_app
 
-A new Flutter project.
+A [Flutter course](https://github.com/academind/flutter-complete-guide-course-resources).
 
 ## Getting Started
 
